@@ -121,7 +121,6 @@ p {
   -ms-flex-pack: center;
   justify-content: center;
   margin: auto;
-  max-width: 1440px;
   width: 100%; }
 
 .add-par {
@@ -622,8 +621,7 @@ footer {
   height: 344px;
   background-image: url(../img/footer-triangle.png);
   background-repeat: no-repeat;
-  background-position-x: 698px;
-  background-position-y: -1210px; }
+  background-position: right 0px bottom 12px; }
   footer .wrapper {
     padding-top: 80px;
     -webkit-box-pack: start;
